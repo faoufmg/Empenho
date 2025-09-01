@@ -1,0 +1,169 @@
+body {
+    padding-top: 105px;
+    background-color: #eeeeee;
+    position: relative;
+    min-height: 97.4vh;
+  }
+  
+  footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+    text-align: center !important;
+  }
+
+  .classheader {
+    padding: 0px 0px 0px 25px !important;
+  }
+  
+  .conteudo {
+    padding: 60px 30px;
+    margin-bottom: 230px;
+  }
+  
+  .listar {
+    padding: 60px 30px;
+    margin-bottom: 20px;
+  }
+  
+  
+  .navbar-dark .navbar-toggler {
+    color: #831D1C !important;
+    border-color: #831D1C !important;
+  }
+  
+  .navbar-dark .navbar-nav .nav-link {
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #831D1C !important;
+  }
+  
+  .navbar-dark .navbar-nav .active > .nav-link {
+    font-weight: bold;
+  }
+  
+  .logo-laranjal {
+    margin-right: 30px;
+  }
+  
+  .bg {
+    background-color: #eeeeee;
+    z-index: 999;
+    padding: 20px;
+  }
+  
+  .nav li {
+    margin-right: 10px;
+  }
+  
+  .nav button i {
+    margin-left: 10px;
+  }
+  
+  .nav-top {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .principal {
+    padding: 60px 0;
+    margin-bottom: 200px;
+  }
+  
+  .box {
+    padding: 50px;
+    text-align: center;
+    vertical-align: middle;
+    margin-bottom: 25px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-left: 2px solid #831D1C;
+    box-shadow: 0px 15px 10px -15px rgba(82, 63, 105, 0.1);
+    transition: all 0.3s ease;
+  }
+  
+  .box:hover {
+    box-shadow: 0px 5px 5px 0px rgba(82, 63, 105, 0.2);
+  }
+  
+  .sombra {
+    background-color: #ffffff;
+    box-shadow: 0px 15px 10px -15px rgba(82,63,105,0.1);
+    margin-top: 96px;
+    z-index: 2;
+  }
+  
+  h3.text-center {
+    margin-bottom: 25px !important;
+  }
+  
+  .footer-pad {
+    padding: 20px;
+    justify-content: center !important;
+  }
+  
+  p.copy {
+    margin-bottom: 0 !important;
+  }
+  
+  .list-group-item.active {
+    background-color: #591df1;
+    border-color: #591df1;
+  }
+  
+  .btn-outline-primary {
+    color: #591df1;
+    border-color: #591df1;
+  }
+  
+  .bread {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  
+  footer a {
+    color: white;
+  }
+  
+  footer a:hover {
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+  }
+  
+  .footer-direita {
+    background-color: #831D1C;
+    color: white;
+  }
+  
+  p {
+    margin-bottom: 0 !important;
+  }
+  
+  .nav-pills .nav-link.active,
+  .nav-pills .show > .nav-link {
+    background-color: #831D1C;
+  }
+  
+  .navbar-dark .navbar-nav .nav-link {
+    cursor: pointer;
+  }
+  
+  .list-box {
+    padding: 25px;
+    text-align: center;
+    vertical-align: middle;
+    margin-bottom: 25px;
+      background-color: #ffffff;
+      border-radius: 5px;
+      border-left: 2px solid #831D1C;
+    box-shadow: 0px 15px 10px -15px rgba(82,63,105,0.1);
+    transition:all 0.3s ease;
+  }
+
+  .divScroll {
+    overflow-y: scroll;
+    height: 75px;
+  }
+  
